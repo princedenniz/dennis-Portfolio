@@ -1,6 +1,6 @@
 const skillsData = [
   {
-    label: "FRONT END",
+    label: "FRONT END BASICS",
     data: [
       {
         skillName: "HTML",
@@ -12,7 +12,7 @@ const skillsData = [
       },
       {
         skillName: "JAVASCRIPT",
-        percentage: "90",
+        percentage: "100",
       },
     ],
   },
@@ -21,15 +21,19 @@ const skillsData = [
     data: [
       {
         skillName: "REACT",
-        percentage: "40",
+        percentage: "70",
       },
       {
         skillName: "TYPESCRIPT",
-        percentage: "20",
+        percentage: "50",
       },
       {
         skillName: "TAILWIND",
-        percentage: "30",
+        percentage: "70",
+      },
+      {
+        skillName: "MATERIAL UI",
+        percentage: "70",
       },
     ],
   },

@@ -1,10 +1,6 @@
 import React, { useState } from "react";
 import PageHeaderContent from "../../components/pageHeaderContainer";
 import { BsInfoCircleFill } from "react-icons/bs";
-// import img1 from "../../../src/image/ble.png";
-// import img2 from "../../../src/image/didi.png";
-// import img3 from "../../../src/image/emek.png";
-// import img4 from "../../../src/image/ify.png";
 import img5 from "../../../src/image/izzy.png";
 import img6 from "../../../src/image/millonaire.jpg";
 import img7 from "../../../src/image/quiz app.png";

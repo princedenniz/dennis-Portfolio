@@ -13,7 +13,7 @@ const personalDetails = [
   },
   {
     label: "Age",
-    value: "30",
+    value: "29",
   },
   {
     label: "Address",
